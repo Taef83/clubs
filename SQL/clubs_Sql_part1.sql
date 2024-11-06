@@ -85,7 +85,7 @@ CREATE TABLE `club_leader` (
                                `club_leader_password` varchar(255) NOT NULL,
                                `club_leader_image_profile` varchar(255) DEFAULT NULL,
                                `club_leader_phone` varchar(15) DEFAULT NULL,
-                               `club_leader_admin_id` int DEFAULT NULL,
+                               `admin_id` int DEFAULT NULL,
                                `is_student` tinyint(1) NOT NULL DEFAULT '0'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3;
 
