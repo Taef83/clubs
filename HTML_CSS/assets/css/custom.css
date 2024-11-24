@@ -1,0 +1,138 @@
+.imgLeader {
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border: 1px solid #000000 !important;
+    display: flex;
+}
+.club-img-q {
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #cacaca;
+    padding-bottom: 17px;
+}
+.club-img {
+    max-height: 200px;
+    max-width: 200px;
+}
+.form-control-feedback{
+    color: #dc3545;
+}
+
+
+#templatemo_main_nav a {
+    color: #6e6e6e;
+    font-size: 18px !important;
+}
+li, a {
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px !important;
+    font-weight: 400 !important;
+}
+
+.nav li.active,.nav li:hover {
+    border: 1px solid #103576;
+    padding: 0 19px;
+    background: #103576;
+    border-radius: 8px;
+}
+ #templatemo_main_nav a:hover {
+    background: #103576;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+}
+ .fa-search {
+     color: #103576 !important;
+ }
+.nav .active a {
+    color: white !important;
+}
+
+.imgSlider {
+    height: auto;width: 300px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #77bd7a;
+    border-color: #77bd7a;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #62a765;
+    border-color: #62a765;
+}
+.footer-link-list li,.footer-link-list li a {
+    font-size: 15px !important;
+
+}
+#tempaltemo_footer .border-light {
+    border-color: #cfd3d9 !important;
+}
+
+.bg-main {
+    background-color: #8142ff !important;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: 15px;
+}
+.carddd {
+    border-radius: 11px;
+    box-shadow: 0 0 4px 0px #323232;
+    border: none;
+}
+.btn-success1 {
+    background-color: #8142ff !important;
+    border-color: #8142ff !important;
+    font-size: 15px !important;
+    color: white;
+}
+.bg-dark1 {
+    background-color: #052976 !important;
+}
+.bg-success {
+    background-color: #02325f !important;
+}
+.copyRight {
+    border-top: 1px solid #81818194
+}
+.services-icon-wap:hover {
+    background: #103576;
+}
+.formSearc {
+    border-right: 2px solid #ddd;
+    background: #ececec;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.clubsss {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.card.product-wap a {
+    color: #000;
+    font-size: 23px !important;
+}
+.club-img2 {
+    height: 249px;
+    max-width: 100%;
+}
+
+.active2 {
+    border: 1px solid white;
+    padding: 0 19px;
+    border-radius: 10px;
+    box-shadow: 0 0 6px 1px #ffffff;
+}
+.reg-link {
+    text-decoration: none !important;
+    color: #59ab6e;
+}
+
+.shadowe {
+    box-shadow: 0 0 3px 3px rgb(0 0 0 / 9%) !important;
+}
