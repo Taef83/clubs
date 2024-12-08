@@ -44,15 +44,7 @@ if (!function_exists('random_color')) {
     }
 }
 
-if (!function_exists('getDiscountValue')) {
-    function getDiscountValue($discount = 0, $total = 0)
-    {
-        if($discount == 0 || $total == 0){
-            return 0;
-        }
-        return round(($discount / 100) * $total, 2);
-    }
-}
+
 
 if (!function_exists('isStudentAttend')) {
     function isStudentAttend($studentId, $eventId)
